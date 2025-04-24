@@ -1,6 +1,6 @@
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
-© 2025 Ваше Имя
+© 2025 Поляков Фёдор Владимирович
 
 "Преобразование геоданных и обучение модели сегментации" распространяется на следующих условиях:
 
