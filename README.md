@@ -1,6 +1,6 @@
 # Marking-the-planting-of-rows-of-plants-according-to-the-coordinates-of-the-maps
 
-<a href="https://colab.research.google.com/github/USERNAME/REPO_NAME/blob/main/преобразования_гео_данных.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/?pli=1&authuser=1"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 # Преобразование геоданных и обучение модели сегментации
 
